@@ -1,0 +1,2734 @@
+{
+ "snapshot": "November 2026",
+ "rubric": "v0.1",
+ "site": "https://mcp-safety-board.pages.dev",
+ "graded": [
+  {
+   "full_name": "modelcontextprotocol/servers/src/everything",
+   "stars": 91988,
+   "language": "TypeScript",
+   "last_push": "2026-11-12T05:37:52Z",
+   "commit": "e1dc4b18dbb948921da37f3d4224a628730b43b0",
+   "scannable": true,
+   "tools_total": 24,
+   "tools_with_annotations": 24,
+   "destructive_like": 6,
+   "destructive_with_hint": 6,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/modelcontextprotocol--servers--src--everything.html"
+  },
+  {
+   "full_name": "modelcontextprotocol/servers/src/fetch",
+   "stars": 91988,
+   "language": "Python",
+   "last_push": "2026-11-12T05:37:52Z",
+   "commit": "e1dc4b18dbb948921da37f3d4224a628730b43b0",
+   "scannable": true,
+   "tools_total": 1,
+   "tools_with_annotations": 1,
+   "destructive_like": 0,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/modelcontextprotocol--servers--src--fetch.html"
+  },
+  {
+   "full_name": "modelcontextprotocol/servers/src/filesystem",
+   "stars": 91988,
+   "language": "TypeScript",
+   "last_push": "2026-11-12T05:37:52Z",
+   "commit": "e1dc4b18dbb948921da37f3d4224a628730b43b0",
+   "scannable": true,
+   "tools_total": 16,
+   "tools_with_annotations": 16,
+   "destructive_like": 1,
+   "destructive_with_hint": 1,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/modelcontextprotocol--servers--src--filesystem.html"
+  },
+  {
+   "full_name": "modelcontextprotocol/servers/src/git",
+   "stars": 91988,
+   "language": "Python",
+   "last_push": "2026-11-12T05:37:52Z",
+   "commit": "e1dc4b18dbb948921da37f3d4224a628730b43b0",
+   "scannable": true,
+   "tools_total": 14,
+   "tools_with_annotations": 14,
+   "destructive_like": 0,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/modelcontextprotocol--servers--src--git.html"
+  },
+  {
+   "full_name": "modelcontextprotocol/servers/src/memory",
+   "stars": 91988,
+   "language": "TypeScript",
+   "last_push": "2026-11-12T05:37:52Z",
+   "commit": "e1dc4b18dbb948921da37f3d4224a628730b43b0",
+   "scannable": true,
+   "tools_total": 9,
+   "tools_with_annotations": 9,
+   "destructive_like": 3,
+   "destructive_with_hint": 3,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/modelcontextprotocol--servers--src--memory.html"
+  },
+  {
+   "full_name": "ChromeDevTools/chrome-devtools-mcp",
+   "stars": 56131,
+   "language": "TypeScript",
+   "last_push": "2026-11-13T17:28:37Z",
+   "commit": "8ba2ac945ebaf1adb92208c29f3a30e73a920956",
+   "scannable": true,
+   "tools_total": 71,
+   "tools_with_annotations": 71,
+   "destructive_like": 6,
+   "destructive_with_hint": 6,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/chromedevtools--chrome-devtools-mcp.html"
+  },
+  {
+   "full_name": "apify/apify-mcp-server",
+   "stars": 16246,
+   "language": "TypeScript",
+   "last_push": "2026-11-13T22:31:34Z",
+   "commit": "6b95029a50460c086ecc4f0035625b27884ebd7b",
+   "scannable": true,
+   "tools_total": 49,
+   "tools_with_annotations": 49,
+   "destructive_like": 20,
+   "destructive_with_hint": 20,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/apify--apify-mcp-server.html"
+  },
+  {
+   "full_name": "mrexodia/ida-pro-mcp",
+   "stars": 13474,
+   "language": "Python",
+   "last_push": "2026-11-12T11:01:58Z",
+   "commit": "13e480cb1198f923154b63669e8cb2faee5deaea",
+   "scannable": true,
+   "tools_total": 91,
+   "tools_with_annotations": 0,
+   "destructive_like": 11,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 68,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/mrexodia--ida-pro-mcp.html"
+  },
+  {
+   "full_name": "grab/cursor-talk-to-figma-mcp",
+   "stars": 7108,
+   "language": "JavaScript",
+   "last_push": "2026-07-26T07:14:26Z",
+   "commit": "ddd90f3a6d454ea0b2fc29f1b084f50fd062b880",
+   "scannable": true,
+   "tools_total": 44,
+   "tools_with_annotations": 0,
+   "destructive_like": 3,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {
+    "MCP003": 1,
+    "MCP106": 2
+   },
+   "score": 70,
+   "grade": "C",
+   "page": "https://mcp-safety-board.pages.dev/s/grab--cursor-talk-to-figma-mcp.html"
+  },
+  {
+   "full_name": "bethington/ghidra-mcp",
+   "stars": 6230,
+   "language": "Java",
+   "last_push": "2026-11-13T01:14:12Z",
+   "commit": "5f6c416ffe973e834644609aff1a2f7f1b93668e",
+   "scannable": true,
+   "tools_total": 253,
+   "tools_with_annotations": 248,
+   "destructive_like": 30,
+   "destructive_with_hint": 30,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 100,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/bethington--ghidra-mcp.html"
+  },
+  {
+   "full_name": "54yyyu/zotero-mcp",
+   "stars": 5915,
+   "language": "Python",
+   "last_push": "2026-11-13T04:27:10Z",
+   "commit": "1cb99f6a35b03b5cb3b93f45b7804c488fb7a80f",
+   "scannable": true,
+   "tools_total": 57,
+   "tools_with_annotations": 0,
+   "destructive_like": 16,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 60,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/54yyyu--zotero-mcp.html"
+  },
+  {
+   "full_name": "samuelgursky/davinci-resolve-mcp",
+   "stars": 4107,
+   "language": "Python",
+   "last_push": "2026-11-14T10:40:25Z",
+   "commit": "94acbd5ee9018f3730fae571d942e1b077fcc068",
+   "scannable": true,
+   "tools_total": 445,
+   "tools_with_annotations": 427,
+   "destructive_like": 45,
+   "destructive_with_hint": 44,
+   "install_pinned": "no",
+   "findings": {
+    "MCP106": 5
+   },
+   "score": 88,
+   "grade": "B",
+   "page": "https://mcp-safety-board.pages.dev/s/samuelgursky--davinci-resolve-mcp.html"
+  },
+  {
+   "full_name": "mixelpixx/KiCAD-MCP-Server",
+   "stars": 3324,
+   "language": "Python",
+   "last_push": "2026-11-14T01:31:37Z",
+   "commit": "4589944e92aa1322f4f362c5bba586281796a460",
+   "scannable": true,
+   "tools_total": 254,
+   "tools_with_annotations": 89,
+   "destructive_like": 40,
+   "destructive_with_hint": 6,
+   "install_pinned": "na",
+   "findings": {
+    "MCP106": 10
+   },
+   "score": 60,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/mixelpixx--kicad-mcp-server.html"
+  },
+  {
+   "full_name": "southleft/figma-console-mcp",
+   "stars": 3316,
+   "language": "TypeScript",
+   "last_push": "2026-11-13T16:00:41Z",
+   "commit": "5ef4df3791606b8e1f877557ec0dde4796250b44",
+   "scannable": true,
+   "tools_total": 135,
+   "tools_with_annotations": 0,
+   "destructive_like": 23,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {
+    "MCP106": 8
+   },
+   "score": 50,
+   "grade": "F",
+   "page": "https://mcp-safety-board.pages.dev/s/southleft--figma-console-mcp.html"
+  },
+  {
+   "full_name": "openags/paper-search-mcp",
+   "stars": 3090,
+   "language": "Python",
+   "last_push": "2026-10-02T06:16:38Z",
+   "commit": "cab1b5cc276a0cd004a0044003926a6440088049",
+   "scannable": true,
+   "tools_total": 74,
+   "tools_with_annotations": 74,
+   "destructive_like": 1,
+   "destructive_with_hint": 1,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/openags--paper-search-mcp.html"
+  },
+  {
+   "full_name": "cjo4m06/mcp-shrimp-task-manager",
+   "stars": 2151,
+   "language": "JavaScript",
+   "last_push": "2025-08-21T08:55:59Z",
+   "commit": "8a3be6bced310c7b660e5cfc3f42e4e5e45f2f61",
+   "scannable": true,
+   "tools_total": 15,
+   "tools_with_annotations": 0,
+   "destructive_like": 3,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {
+    "MCP106": 1
+   },
+   "score": 84,
+   "grade": "B",
+   "page": "https://mcp-safety-board.pages.dev/s/cjo4m06--mcp-shrimp-task-manager.html"
+  },
+  {
+   "full_name": "A9T9/RPA",
+   "stars": 2107,
+   "language": "TypeScript",
+   "last_push": "2026-11-04T08:03:08Z",
+   "commit": "17b6302f1617b838efe2b26d3ef19c2face81350",
+   "scannable": true,
+   "tools_total": 25,
+   "tools_with_annotations": 0,
+   "destructive_like": 7,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 66,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/a9t9--rpa.html"
+  },
+  {
+   "full_name": "zereight/gitlab-mcp",
+   "stars": 2105,
+   "language": "TypeScript",
+   "last_push": "2026-11-14T13:07:44Z",
+   "commit": "fdd70b75a1641034f496729b00e6ff8b0f0681b2",
+   "scannable": true,
+   "tools_total": 288,
+   "tools_with_annotations": 288,
+   "destructive_like": 68,
+   "destructive_with_hint": 37,
+   "install_pinned": "no",
+   "findings": {
+    "MCP106": 2
+   },
+   "score": 60,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/zereight--gitlab-mcp.html"
+  },
+  {
+   "full_name": "microsoft/azure-devops-mcp",
+   "stars": 2086,
+   "language": "TypeScript",
+   "last_push": "2026-11-13T13:44:33Z",
+   "commit": "65868ea3b843a50b45fdec8babe0ab25dd407002",
+   "scannable": true,
+   "tools_total": 44,
+   "tools_with_annotations": 44,
+   "destructive_like": 14,
+   "destructive_with_hint": 14,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/microsoft--azure-devops-mcp.html"
+  },
+  {
+   "full_name": "zzet/gortex",
+   "stars": 2077,
+   "language": "Go",
+   "last_push": "2026-11-14T17:35:05Z",
+   "commit": "a86d352def4acce80decadeaeb3f9d9cea97256a",
+   "scannable": true,
+   "tools_total": 201,
+   "tools_with_annotations": 201,
+   "destructive_like": 24,
+   "destructive_with_hint": 24,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 100,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/zzet--gortex.html"
+  },
+  {
+   "full_name": "OpenOSINT/OpenOSINT",
+   "stars": 1934,
+   "language": "Python",
+   "last_push": "2026-11-14T10:12:35Z",
+   "commit": "8b7b51fbf39e5e1559e1df8fe2b8cdaec28c985f",
+   "scannable": true,
+   "tools_total": 25,
+   "tools_with_annotations": 0,
+   "destructive_like": 1,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 78,
+   "grade": "C",
+   "page": "https://mcp-safety-board.pages.dev/s/openosint--openosint.html"
+  },
+  {
+   "full_name": "miscusi-peek/cheatengine-mcp-bridge",
+   "stars": 1804,
+   "language": "Lua",
+   "last_push": "2026-08-14T08:14:14Z",
+   "commit": "6bd7ce90479250a9b4b75e7944df9c105ecb2572",
+   "scannable": true,
+   "tools_total": 175,
+   "tools_with_annotations": 0,
+   "destructive_like": 38,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {
+    "MCP106": 7
+   },
+   "score": 60,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/miscusi-peek--cheatengine-mcp-bridge.html"
+  },
+  {
+   "full_name": "nickclyde/duckduckgo-mcp-server",
+   "stars": 1582,
+   "language": "Python",
+   "last_push": "2026-09-04T18:31:25Z",
+   "commit": "8182af3f2295017ca90527a924f48147fbf18d5b",
+   "scannable": true,
+   "tools_total": 3,
+   "tools_with_annotations": 0,
+   "destructive_like": 0,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 80,
+   "grade": "B",
+   "page": "https://mcp-safety-board.pages.dev/s/nickclyde--duckduckgo-mcp-server.html"
+  },
+  {
+   "full_name": "akfamily/aktools",
+   "stars": 1566,
+   "language": "Python",
+   "last_push": "2026-11-14T16:32:36Z",
+   "commit": "b6b77bd35eee67c4e5280356fcb4307528da4297",
+   "scannable": true,
+   "tools_total": 3,
+   "tools_with_annotations": 3,
+   "destructive_like": 0,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/akfamily--aktools.html"
+  },
+  {
+   "full_name": "hashicorp/terraform-mcp-server",
+   "stars": 1562,
+   "language": "Go",
+   "last_push": "2026-11-13T18:28:45Z",
+   "commit": "3e38ca6943992c108b7b83c3a06b0c1b6f4902ac",
+   "scannable": false,
+   "tools_total": 68,
+   "tools_with_annotations": 57,
+   "destructive_like": 13,
+   "destructive_with_hint": 11,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 96,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/hashicorp--terraform-mcp-server.html"
+  },
+  {
+   "full_name": "Taxuspt/garmin_mcp",
+   "stars": 1502,
+   "language": "Python",
+   "last_push": "2026-10-24T12:16:10Z",
+   "commit": "a2ca5fcac34524b83814fe2fcf3d479f8a75983f",
+   "scannable": true,
+   "tools_total": 157,
+   "tools_with_annotations": 157,
+   "destructive_like": 19,
+   "destructive_with_hint": 19,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/taxuspt--garmin_mcp.html"
+  },
+  {
+   "full_name": "fastcrw/crw",
+   "stars": 1255,
+   "language": "Rust",
+   "last_push": "2026-11-14T14:37:02Z",
+   "commit": "823c07051d7fbf94f377b83417565a65ed5dd78d",
+   "scannable": true,
+   "tools_total": 25,
+   "tools_with_annotations": 11,
+   "destructive_like": 3,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {
+    "MCP002": 1
+   },
+   "score": 70,
+   "grade": "C",
+   "page": "https://mcp-safety-board.pages.dev/s/fastcrw--crw.html"
+  },
+  {
+   "full_name": "JosssphZhou/poki",
+   "stars": 1235,
+   "language": "Swift",
+   "last_push": "2026-11-14T12:33:21Z",
+   "commit": "8c5a8da295ea71cc0bda6cf0a13b9cabac2f4165",
+   "scannable": true,
+   "tools_total": 63,
+   "tools_with_annotations": 63,
+   "destructive_like": 5,
+   "destructive_with_hint": 5,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 100,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/josssphzhou--poki.html"
+  },
+  {
+   "full_name": "mrkrsl/web-search-mcp",
+   "stars": 1206,
+   "language": "TypeScript",
+   "last_push": "2025-08-08T19:58:47Z",
+   "commit": "eeb03f88525cbf74c4019e59a3fea45a537a760b",
+   "scannable": true,
+   "tools_total": 3,
+   "tools_with_annotations": 0,
+   "destructive_like": 0,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/mrkrsl--web-search-mcp.html"
+  },
+  {
+   "full_name": "cyberkaida/reverse-engineering-assistant",
+   "stars": 961,
+   "language": "Java",
+   "last_push": "2026-11-14T04:50:55Z",
+   "commit": "4d2fc5b4c5f4ce00d95f0bd6bdf0c64b67e65fc2",
+   "scannable": true,
+   "tools_total": 88,
+   "tools_with_annotations": 0,
+   "destructive_like": 14,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 62,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/cyberkaida--reverse-engineering-assistant.html"
+  },
+  {
+   "full_name": "googleapis/gcloud-mcp",
+   "stars": 951,
+   "language": "TypeScript",
+   "last_push": "2026-10-17T19:03:01Z",
+   "commit": "238728f237ecb5f483199906b564a1767a0713f9",
+   "scannable": true,
+   "tools_total": 61,
+   "tools_with_annotations": 0,
+   "destructive_like": 13,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 54,
+   "grade": "F",
+   "page": "https://mcp-safety-board.pages.dev/s/googleapis--gcloud-mcp.html"
+  },
+  {
+   "full_name": "dondai1234/master-fetch",
+   "stars": 903,
+   "language": "Python",
+   "last_push": "2026-07-24T07:33:25Z",
+   "commit": "86d1b1329c0eed6133f29e3effe6a40a29f9dcdc",
+   "scannable": true,
+   "tools_total": 6,
+   "tools_with_annotations": 6,
+   "destructive_like": 1,
+   "destructive_with_hint": 1,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 100,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/dondai1234--master-fetch.html"
+  },
+  {
+   "full_name": "alisaitteke/photoshop-mcp",
+   "stars": 880,
+   "language": "TypeScript",
+   "last_push": "2026-11-14T00:31:27Z",
+   "commit": "d68a74f33d8f3e4e95f28499e1b1258d2073c5af",
+   "scannable": true,
+   "tools_total": 128,
+   "tools_with_annotations": 128,
+   "destructive_like": 19,
+   "destructive_with_hint": 19,
+   "install_pinned": "no",
+   "findings": {
+    "MCP002": 1
+   },
+   "score": 86,
+   "grade": "B",
+   "page": "https://mcp-safety-board.pages.dev/s/alisaitteke--photoshop-mcp.html"
+  },
+  {
+   "full_name": "Wh0am123/MCP-Kali-Server",
+   "stars": 872,
+   "language": "Python",
+   "last_push": "2026-03-17T21:13:13Z",
+   "commit": "00154c053845b2ec4c3eef49ad09dd9bb2d3b7aa",
+   "scannable": true,
+   "tools_total": 12,
+   "tools_with_annotations": 0,
+   "destructive_like": 11,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 68,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/wh0am123--mcp-kali-server.html"
+  },
+  {
+   "full_name": "hetpatel-11/Adobe_Premiere_Pro_MCP",
+   "stars": 871,
+   "language": "TypeScript",
+   "last_push": "2026-11-02T23:20:08Z",
+   "commit": "b866e6486749d25b3b4922002d2b49ffbbf6a43a",
+   "scannable": true,
+   "tools_total": 283,
+   "tools_with_annotations": 0,
+   "destructive_like": 19,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {
+    "MCP003": 2
+   },
+   "score": 52,
+   "grade": "F",
+   "page": "https://mcp-safety-board.pages.dev/s/hetpatel-11--adobe_premiere_pro_mcp.html"
+  },
+  {
+   "full_name": "a-bonus/google-docs-mcp",
+   "stars": 686,
+   "language": "TypeScript",
+   "last_push": "2026-10-26T15:00:31Z",
+   "commit": "22856e1fd5d20afe40471683d4c9417910fa9430",
+   "scannable": true,
+   "tools_total": 128,
+   "tools_with_annotations": 0,
+   "destructive_like": 29,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {
+    "MCP106": 12
+   },
+   "score": 50,
+   "grade": "F",
+   "page": "https://mcp-safety-board.pages.dev/s/a-bonus--google-docs-mcp.html"
+  },
+  {
+   "full_name": "nirholas/XActions",
+   "stars": 656,
+   "language": "HTML",
+   "last_push": "2026-11-13T14:55:55Z",
+   "commit": "61f24dddf69ffc59ee2bb9881400db56bb758b3e",
+   "scannable": true,
+   "tools_total": 160,
+   "tools_with_annotations": 6,
+   "destructive_like": 14,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {
+    "MCP002": 1,
+    "MCP106": 3
+   },
+   "score": 48,
+   "grade": "F",
+   "page": "https://mcp-safety-board.pages.dev/s/nirholas--xactions.html"
+  },
+  {
+   "full_name": "RekklesNA/ProxmoxMCP-Plus",
+   "stars": 650,
+   "language": "Python",
+   "last_push": "2026-11-14T00:46:00Z",
+   "commit": "785f34104d6b3f3134bdbba4b768003e4023a314",
+   "scannable": true,
+   "tools_total": 71,
+   "tools_with_annotations": 71,
+   "destructive_like": 14,
+   "destructive_with_hint": 14,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 90,
+   "grade": "A",
+   "page": "https://mcp-safety-board.pages.dev/s/rekklesna--proxmoxmcp-plus.html"
+  },
+  {
+   "full_name": "redis/mcp-redis",
+   "stars": 642,
+   "language": "Python",
+   "last_push": "2026-11-11T12:00:08Z",
+   "commit": "d66c5ea0172e0991a98c0f13c0f880246c93b2a5",
+   "scannable": true,
+   "tools_total": 53,
+   "tools_with_annotations": 0,
+   "destructive_like": 9,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {
+    "MCP003": 1
+   },
+   "score": 58,
+   "grade": "F",
+   "page": "https://mcp-safety-board.pages.dev/s/redis--mcp-redis.html"
+  },
+  {
+   "full_name": "GoogleCloudPlatform/cloud-run-mcp",
+   "stars": 639,
+   "language": "JavaScript",
+   "last_push": "2026-11-14T05:41:35Z",
+   "commit": "e2799c713fbe75ed179e58c5dd94d2a693bdc9d5",
+   "scannable": true,
+   "tools_total": 8,
+   "tools_with_annotations": 0,
+   "destructive_like": 6,
+   "destructive_with_hint": 0,
+   "install_pinned": "no",
+   "findings": {
+    "MCP002": 1
+   },
+   "score": 64,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/googlecloudplatform--cloud-run-mcp.html"
+  },
+  {
+   "full_name": "SaseQ/discord-mcp",
+   "stars": 605,
+   "language": "Java",
+   "last_push": "2026-10-23T17:22:51Z",
+   "commit": "e134c03714cfadf786b686e3045b92537042a240",
+   "scannable": false,
+   "tools_total": 82,
+   "tools_with_annotations": 0,
+   "destructive_like": 18,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 60,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/saseq--discord-mcp.html"
+  },
+  {
+   "full_name": "resend/resend-mcp",
+   "stars": 581,
+   "language": "TypeScript",
+   "last_push": "2026-11-14T04:59:27Z",
+   "commit": "0280790d0694b5000726dfa41d1ebd1316374a5e",
+   "scannable": true,
+   "tools_total": 136,
+   "tools_with_annotations": 75,
+   "destructive_like": 42,
+   "destructive_with_hint": 13,
+   "install_pinned": "no",
+   "findings": {},
+   "score": 60,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/resend--resend-mcp.html"
+  },
+  {
+   "full_name": "ooples/token-optimizer-mcp",
+   "stars": 579,
+   "language": "JavaScript",
+   "last_push": "2026-11-14T16:57:04Z",
+   "commit": "7e29bbf005d3ed04c18b35a70bc929fe97b0c4ce",
+   "scannable": true,
+   "tools_total": 108,
+   "tools_with_annotations": 6,
+   "destructive_like": 14,
+   "destructive_with_hint": 2,
+   "install_pinned": "no",
+   "findings": {
+    "MCP003": 9
+   },
+   "score": 44,
+   "grade": "F",
+   "page": "https://mcp-safety-board.pages.dev/s/ooples--token-optimizer-mcp.html"
+  },
+  {
+   "full_name": "itechmeat/open-second-brain",
+   "stars": 568,
+   "language": "TypeScript",
+   "last_push": "2026-11-14T16:07:28Z",
+   "commit": "0f5eb07d003fefcd70832d197fd53e748371b1be",
+   "scannable": true,
+   "tools_total": 124,
+   "tools_with_annotations": 0,
+   "destructive_like": 33,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 60,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/itechmeat--open-second-brain.html"
+  },
+  {
+   "full_name": "AnkleBreaker-Studio/unity-mcp-server",
+   "stars": 545,
+   "language": "JavaScript",
+   "last_push": "2026-10-23T07:59:13Z",
+   "commit": "a669788cd367de7f0b7bfd657a66807a9156628a",
+   "scannable": true,
+   "tools_total": 80,
+   "tools_with_annotations": 0,
+   "destructive_like": 9,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {},
+   "score": 72,
+   "grade": "C",
+   "page": "https://mcp-safety-board.pages.dev/s/anklebreaker-studio--unity-mcp-server.html"
+  },
+  {
+   "full_name": "Gennadiyev/STS2MCP",
+   "stars": 542,
+   "language": "C#",
+   "last_push": "2026-07-29T09:02:01Z",
+   "commit": "55e064850a68f3b4cde7e5fd525bf9b2dec4e885",
+   "scannable": true,
+   "tools_total": 64,
+   "tools_with_annotations": 0,
+   "destructive_like": 1,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {
+    "MCP106": 1
+   },
+   "score": 88,
+   "grade": "B",
+   "page": "https://mcp-safety-board.pages.dev/s/gennadiyev--sts2mcp.html"
+  },
+  {
+   "full_name": "tugcantopaloglu/godot-mcp",
+   "stars": 512,
+   "language": "TypeScript",
+   "last_push": "2026-10-09T18:28:09Z",
+   "commit": "88f0fbc69a08225d4fdec32f921209e127f52395",
+   "scannable": true,
+   "tools_total": 157,
+   "tools_with_annotations": 0,
+   "destructive_like": 19,
+   "destructive_with_hint": 0,
+   "install_pinned": "na",
+   "findings": {
+    "MCP106": 3
+   },
+   "score": 60,
+   "grade": "D",
+   "page": "https://mcp-safety-board.pages.dev/s/tugcantopaloglu--godot-mcp.html"
+  }
+ ],
+ "not_graded": [
+  {
+   "full_name": "modelcontextprotocol/servers/src/sequentialthinking",
+   "stars": 91988,
+   "language": "TypeScript",
+   "commit": "e1dc4b18dbb948921da37f3d4224a628730b43b0",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "modelcontextprotocol/servers/src/time",
+   "stars": 91988,
+   "language": "Python",
+   "commit": "e1dc4b18dbb948921da37f3d4224a628730b43b0",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "ahujasid/mcp-for-blender",
+   "stars": 34422,
+   "language": "Python",
+   "commit": "8f40787fbde8e6d8fe51c5a3553e5635fff40d2b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "czlonkowski/n8n-mcp",
+   "stars": 23252,
+   "language": "TypeScript",
+   "commit": "ccede0be774fb81ceddb16290f0b88ccad44b1a1",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "xpzouying/xiaohongshu-mcp",
+   "stars": 17123,
+   "language": "Go",
+   "commit": "bb6fa2e208719ee634fec37881be29d3aa4699b3",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "googleapis/mcp-toolbox",
+   "stars": 16872,
+   "language": "Go",
+   "commit": "a313b10c4188a33d3a6ed982e9397813bb3a26a0",
+   "reason": "Written in Go: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "GLips/Figma-Context-MCP",
+   "stars": 16208,
+   "language": "TypeScript",
+   "commit": "c083d65c7e002923e7cb98f4e3bdafb105e90f6d",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "CoplayDev/unity-mcp",
+   "stars": 15969,
+   "language": "C#",
+   "commit": "5914ce5bd9d11d66a7896ce72e395b0a2f049c2a",
+   "reason": "Written in C#: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "tonhowtf/omniget",
+   "stars": 14434,
+   "language": "Rust",
+   "commit": "ea91a77d1edd6b47fabfba42bcc53070f62d217d",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "hangwin/mcp-chrome",
+   "stars": 12544,
+   "language": "TypeScript",
+   "commit": "f48e71751e00bc09725c7e173423cff4f2ccd12a",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "LaurieWired/GhidraMCP",
+   "stars": 11928,
+   "language": "Java",
+   "commit": "1e980252087b2479a21b9ca6d82d5829538651a7",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "BeehiveInnovations/pal-mcp-server",
+   "stars": 11838,
+   "language": "Python",
+   "commit": "7afc7c1cc96e23992c8f105f960132c657883bb1",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "CursorTouch/Windows-MCP",
+   "stars": 11670,
+   "language": "Python",
+   "commit": "6e57e44b84b82309234aa1f534b6a7642c5a1a11",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "wonderwhy-er/DesktopCommanderMCP",
+   "stars": 10312,
+   "language": "JavaScript",
+   "commit": "bce370e9395f5bc74eda34913e5ae1dee48df8f8",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Gentleman-Programming/engram",
+   "stars": 8148,
+   "language": "Go",
+   "commit": "8a4ce2d948ca0abebdc36b1021456bac67845512",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "firecrawl/firecrawl-mcp-server",
+   "stars": 7819,
+   "language": "JavaScript",
+   "commit": "a3d0fbe920d800c257f118a487b87773ff5c1320",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "homeassistant-ai/ha-mcp",
+   "stars": 7808,
+   "language": "Python",
+   "commit": "5447a7eb35853b8cdc20dfe380186bedb7529363",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "BrowserMCP/mcp",
+   "stars": 7358,
+   "language": "TypeScript",
+   "commit": "a51ddc4ee2210b102468a52b114e6f00e5bd206e",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "AgentDeskAI/browser-tools-mcp",
+   "stars": 7344,
+   "language": "TypeScript",
+   "commit": "2b30d11677e73e09bfab72c479be83f2836da425",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "lharries/whatsapp-mcp",
+   "stars": 6882,
+   "language": "Go",
+   "commit": "7d6a06dcdce1f01dfb24f60e1030d5efba9f3b88",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Coding-Solo/godot-mcp",
+   "stars": 6648,
+   "language": "JavaScript",
+   "commit": "1209744fad78f3998f98c7394fd0f6ef50da5281",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "getsentry/MobileBuildMCP",
+   "stars": 6573,
+   "language": "TypeScript",
+   "commit": "2998ac77ebbca59544e88a27f34bfb830db9d924",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "jacob-bd/gemini-notebook-mcp-cli",
+   "stars": 6510,
+   "language": "Python",
+   "commit": "f373dcb9d3539ebde7afde1328b15261cbab0176",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "epiral/bb-browser",
+   "stars": 6267,
+   "language": "TypeScript",
+   "commit": "7975dc74b3f637d54906228e52f2ba9454874105",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "sooperset/mcp-atlassian",
+   "stars": 6119,
+   "language": "Python",
+   "commit": "a633020248d6e559c5719c6bcb8f668f76273fd9",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "qybaihe/bla",
+   "stars": 5657,
+   "language": "TypeScript",
+   "commit": "53b8aae3546784c674cd4646dae3a0747704d1fb",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "callstack/agent-device",
+   "stars": 5392,
+   "language": "TypeScript",
+   "commit": "d78be6c88715ad80fc658497f23f91c86bf9489b",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "atilaahmettaner/tradingview-mcp",
+   "stars": 5283,
+   "language": "Python",
+   "commit": "ab4681cdbdd18e5cafbf31695a07e1c146822e16",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "exa-labs/exa-mcp-server",
+   "stars": 5233,
+   "language": "TypeScript",
+   "commit": "93c0d5e1fecfc1ec9bf70fa9f3633962a1f2fa8a",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Manavarya09/design-extract",
+   "stars": 5088,
+   "language": "HTML",
+   "commit": "461163d730c4648857452b6757bdcbb7c9f614c4",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "makenotion/notion-mcp-server",
+   "stars": 4709,
+   "language": "TypeScript",
+   "commit": "cf16e5c20bfbfb98ecec1227f210ef0ae3abebe5",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "IvanMurzak/Unity-MCP",
+   "stars": 4637,
+   "language": "C#",
+   "commit": "2a487044c5d4dee26e970cafbb361633787db331",
+   "reason": "Written in C#: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "MarkusPfundstein/mcp-obsidian",
+   "stars": 4539,
+   "language": "Python",
+   "commit": "5ee0b84fa8319fd2fdf0db0ee1febb065e712a15",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "cloudflare/mcp-server-cloudflare",
+   "stars": 4466,
+   "language": "TypeScript",
+   "commit": "a21972e219289337731a066befb5c66886b9ce7b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "CodeGraphContext/CodeGraphContext",
+   "stars": 4420,
+   "language": "Python",
+   "commit": "6ed71a9f03f8eefec5bf7c38d638425efdf92ffe",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "antvis/mcp-server-chart",
+   "stars": 4418,
+   "language": "TypeScript",
+   "commit": "e2a8fb7c185e17c75c067817ff1a2acfddf49aa1",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Pimzino/spec-workflow-mcp",
+   "stars": 4306,
+   "language": "TypeScript",
+   "commit": "d38e82eaa8a6a2f5480285fa1feb8cf8378c86e0",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "haris-musa/excel-mcp-server",
+   "stars": 4303,
+   "language": "Python",
+   "commit": "8d3a51a0a5f99624c43cffacc622bab49e1e32da",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "stickerdaniel/linkedin-mcp-server",
+   "stars": 4213,
+   "language": "Python",
+   "commit": "e9b47a48634200a836571b4e7c02444844038229",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Minidoracat/mcp-feedback-enhanced",
+   "stars": 3751,
+   "language": "JavaScript",
+   "commit": "c509042b651fc66db3be9f059f489b7648d712cc",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "grafana/mcp-grafana",
+   "stars": 3668,
+   "language": "Go",
+   "commit": "4f09d9f45d352c8e92870bdfe75bf76af416e35f",
+   "reason": "Written in Go: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "hi-godot/godot-ai",
+   "stars": 3534,
+   "language": "GDScript",
+   "commit": "643c64f3edf984a9668b3043f4d20ebb2bbec6b6",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "taylorwilsdon/google_workspace_mcp",
+   "stars": 3518,
+   "language": "Python",
+   "commit": "e6885a116113433b1f2811a81d1479399f3b396e",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "ahujasid/ableton-mcp",
+   "stars": 3363,
+   "language": "Python",
+   "commit": "9dddc7bd5b95412510fdeb745949e3bf23f3fd8a",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "vibheksoni/stealth-browser-mcp",
+   "stars": 3362,
+   "language": "Python",
+   "commit": "59dab717c210389920f8a58b3dc48b5873778272",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "neka-nat/freecad-mcp",
+   "stars": 3333,
+   "language": "Python",
+   "commit": "5014bd9d538b8d09e11201e219cfe291ebca7b4e",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "blazickjp/arxiv-mcp-server",
+   "stars": 3278,
+   "language": "Python",
+   "commit": "572e301bb3198962c025d5ed5e14becb86868daa",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "coddingtonbear/obsidian-local-rest-api",
+   "stars": 3149,
+   "language": "TypeScript",
+   "commit": "7c603fbc42918bd9ec6f34ab5b46300bac0d0eaa",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Jpisnice/shadcn-ui-mcp-server",
+   "stars": 3098,
+   "language": "TypeScript",
+   "commit": "30efb8a0bf8d968e4c6635e4491c20da96e49d20",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "zhizhuodemao/js-reverse-mcp",
+   "stars": 3078,
+   "language": "TypeScript",
+   "commit": "bf7dc506e8743ba1ec5bd3325c91818b9192e40e",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "zinja-coder/jadx-ai-mcp",
+   "stars": 3007,
+   "language": "Java",
+   "commit": "9f4fce6f49902e95c62479c02d985d1eb0b3cbe1",
+   "reason": "Written in Java: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "zcaceres/markdownify-mcp",
+   "stars": 3005,
+   "language": "TypeScript",
+   "commit": "024f97cea9a94cd842c445eea4503c442c79bd71",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "chrisryugj/kordoc",
+   "stars": 2994,
+   "language": "TypeScript",
+   "commit": "093cd30339c7bb32ad85269dc41ba479a4af71f5",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "chrisryugj/korean-law-mcp",
+   "stars": 2872,
+   "language": "TypeScript",
+   "commit": "3f7c7d8460e56d4011beb69857f41a4eb54f25d6",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "brightdata/brightdata-mcp",
+   "stars": 2727,
+   "language": "JavaScript",
+   "commit": "4703ffa27d6b94ce70a6b7a089355b9d04997235",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "yctimlin/mcp_excalidraw",
+   "stars": 2648,
+   "language": "TypeScript",
+   "commit": "81720ac819d2325177cd6137c6ad41d52d0f5374",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "perplexityai/modelcontextprotocol",
+   "stars": 2627,
+   "language": "TypeScript",
+   "commit": "cd1d27cffe56739819abb3e56a18e26dbd88c487",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "tavily-ai/tavily-mcp",
+   "stars": 2488,
+   "language": "TypeScript",
+   "commit": "70d4d47f9b96539ca143c940bd3562578923d56f",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "0xMassi/webclaw",
+   "stars": 2443,
+   "language": "Rust",
+   "commit": "e75a8b77a7f2090fe24428653ab27b8f70a82e2b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Joooook/12306-mcp",
+   "stars": 2431,
+   "language": "JavaScript",
+   "commit": "ff6439da6f63d7d72181abea4568abd69878c600",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "financial-datasets/mcp-server",
+   "stars": 2326,
+   "language": "Python",
+   "commit": "08e7a3dbb949d3d99bbd6d6f3a22e5f02973ec58",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "jamubc/gemini-mcp-tool",
+   "stars": 2298,
+   "language": "TypeScript",
+   "commit": "588e73dfff07c29f5eeec988e886b46cc8cd6330",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "containers/kubernetes-mcp-server",
+   "stars": 2250,
+   "language": "Go",
+   "commit": "e510ada310db284edfaad5641e06f342b2e8672b",
+   "reason": "Written in Go: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "joshuayoes/ios-simulator-mcp",
+   "stars": 2222,
+   "language": "TypeScript",
+   "commit": "4c1d8db0f0c9caaf6523c5c6bfe31b02195f42cf",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "benborla/mcp-server-mysql",
+   "stars": 2218,
+   "language": "JavaScript",
+   "commit": "b9c714e182422b9f18437242b80cf003adf1c7ea",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "AminForou/mcp-gsc",
+   "stars": 2202,
+   "language": "Python",
+   "commit": "45291df024c7873b2042c83d7add70ced7bb621f",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "doobidoo/mcp-memory-service",
+   "stars": 2127,
+   "language": "Python",
+   "commit": "f95fd20fbd07823d69c3f2226bf1189197fca9d4",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "chongdashu/unreal-mcp",
+   "stars": 2117,
+   "language": "C++",
+   "commit": "4e5f00da50733190481311e254d16d137a84ef33",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "vmoranv/jshookmcp",
+   "stars": 2114,
+   "language": "TypeScript",
+   "commit": "4bacf13df1bf06713da7145d745958812bdff0d4",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "cyberagiinc/DevDocs",
+   "stars": 2106,
+   "language": "TypeScript",
+   "commit": "f8fa9de505c96bcc8c76561196a75d39b52847b6",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "chigwell/telegram-mcp",
+   "stars": 2043,
+   "language": "Python",
+   "commit": "d1b1d496ce2b9d22e00621c77c6285aff029072d",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "CoderGamester/mcp-unity",
+   "stars": 2017,
+   "language": "C#",
+   "commit": "d572dc88f1b982a0fdfc09cd14cfdfd760b658e8",
+   "reason": "Written in C#: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "MicrosoftDocs/mcp",
+   "stars": 1991,
+   "language": "TypeScript",
+   "commit": "f0a9478a954c9b3a7c6525a5183466902ca60731",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "forloopcodes/contextplus",
+   "stars": 1991,
+   "language": "TypeScript",
+   "commit": "1b59b37f313047bd99d95e50ad8e5f0e2e38467f",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "aoci-spec/aoci-code",
+   "stars": 1917,
+   "language": "Go",
+   "commit": "0251b192e4f4cdc224b52b65a3d8a14382dc310e",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Aas-ee/open-webSearch",
+   "stars": 1906,
+   "language": "TypeScript",
+   "commit": "2562c9233a945c18fa9d08b7e450ca218a8853b6",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "korotovsky/slack-mcp-server",
+   "stars": 1899,
+   "language": "Go",
+   "commit": "b88c0de3f706f4f07337c9eda7133c736d1c9524",
+   "reason": "Written in Go: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "timescale/pg-aiguide",
+   "stars": 1884,
+   "language": "TypeScript",
+   "commit": "1aef6e452b97fae580d57677a807fd0d601ddc7b",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "arabold/docs-mcp-server",
+   "stars": 1879,
+   "language": "TypeScript",
+   "commit": "d2bdb2f8378d4e901c764aba32b5941d05a6a50f",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Mcp-Brasil/mcp-brasil",
+   "stars": 1863,
+   "language": "Python",
+   "commit": "2efb258370b125bbf190884283ae10f209b9d335",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "matlab/matlab-mcp-server",
+   "stars": 1819,
+   "language": "Go",
+   "commit": "2a3ed9144cedeb0a488b08469e8321e9200a432e",
+   "reason": "Written in Go: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "jau123/MeiGen-AI-Design-MCP",
+   "stars": 1802,
+   "language": "JavaScript",
+   "commit": "95a983cf639fea264db4335491b697ee9c7e429f",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "mukul975/cve-mcp-server",
+   "stars": 1778,
+   "language": "Python",
+   "commit": "d666bac3743574cecc98bcbf524558c2bf0d8e61",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "bitbonsai/mcpvault",
+   "stars": 1724,
+   "language": "TypeScript",
+   "commit": "5d4e68550e9fe27fc24b9e16d96b8ff5b39355d7",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "patrickchugh/terravision",
+   "stars": 1691,
+   "language": "Python",
+   "commit": "9bdd96f905b04a9e43e27f09762d34423e880621",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "svnscha/mcp-windbg",
+   "stars": 1673,
+   "language": "Python",
+   "commit": "6c7bd7598a1db717357212aaaed5994306f434ec",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "leonardsellem/n8n-mcp-server",
+   "stars": 1630,
+   "language": "TypeScript",
+   "commit": "3b97d467ae076564afd2a597a8e986463c227153",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "HexRaysSA/ida-mcp",
+   "stars": 1619,
+   "language": "Python",
+   "commit": "391c2f0606a773050fbafcd3ff62942688a0713b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "isaacphi/mcp-language-server",
+   "stars": 1618,
+   "language": "Go",
+   "commit": "e4395849a52e18555361abab60a060802c06bf50",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Flux159/mcp-server-kubernetes",
+   "stars": 1612,
+   "language": "TypeScript",
+   "commit": "28fa39e2a63332c6c12d78a2ca5209f56519ffaf",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "datagouv/datagouv-mcp",
+   "stars": 1610,
+   "language": "Python",
+   "commit": "2b9f8c40b4d188131c3fb6962e60f32c92a2cd4c",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "MiniMax-AI/MiniMax-MCP",
+   "stars": 1600,
+   "language": "Python",
+   "commit": "2904f3333474cc020676b6c91676656bc4d03b3b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "brave/brave-search-mcp-server",
+   "stars": 1580,
+   "language": "TypeScript",
+   "commit": "e7da0f1973051fe0fc4e351acf6a3e0a190fc2d2",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "qdrant/mcp-server-qdrant",
+   "stars": 1570,
+   "language": "Python",
+   "commit": "9cfd5f1584e4de45517c335c2bb69f7a53e44055",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "anaisbetts/mcp-installer",
+   "stars": 1538,
+   "language": "JavaScript",
+   "commit": "747fbd88aa2e54368f98252fc9e8d228748dc594",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "robotmcp/ros-mcp-server",
+   "stars": 1526,
+   "language": "Python",
+   "commit": "476591ac058f58cae810cc775e50b51f8d3d757c",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "lgazo/drawio-mcp-server",
+   "stars": 1498,
+   "language": "TypeScript",
+   "commit": "7922a095105b0e38a78b48e54d3aa5c1b4dd5c16",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "DaxianLee/cocos-mcp-server",
+   "stars": 1493,
+   "language": "TypeScript",
+   "commit": "a5db895b3299dccd78979ca0268193e4b6ebf037",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "better-auth/better-icons",
+   "stars": 1478,
+   "language": "TypeScript",
+   "commit": "033316ecb8f4982235af4111a2257e80231f5ab1",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "googlecolab/colab-mcp",
+   "stars": 1477,
+   "language": "Python",
+   "commit": "b9ab3899e0f1fa493390b1fd6d54aa2e464ecdf1",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "ridafkih/keeper.sh",
+   "stars": 1469,
+   "language": "TypeScript",
+   "commit": "327f56c637fd1970355b54ccc2ad41a47a723995",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "Dataojitori/nocturne_memory",
+   "stars": 1427,
+   "language": "Python",
+   "commit": "f55f10d5710023316deabb5e5cad843d0e69f346",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "designcomputer/mysql_mcp_server",
+   "stars": 1417,
+   "language": "Python",
+   "commit": "943ce83816372a03e5872be5424ebfcf252aa5ac",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "regenrek/deepwiki-mcp",
+   "stars": 1392,
+   "language": "TypeScript",
+   "commit": "d62d749629716a28905da5555922b6f93a654fbf",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "kimsungwhee/apple-docs-mcp",
+   "stars": 1388,
+   "language": "TypeScript",
+   "commit": "28c06cbaa896cb4f89239d30cb20152a74c78cdb",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "pipeboard-co/meta-ads-mcp",
+   "stars": 1367,
+   "language": "Python",
+   "commit": "63d0e5e29f2cf823f7f5317a77e66151eceb7415",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "caol64/wenyan-mcp",
+   "stars": 1357,
+   "language": "JavaScript",
+   "commit": "83874e9eb3a9ac1b637330df0cceaf8b4784d902",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "datalayer/jupyter-mcp-server",
+   "stars": 1326,
+   "language": "Python",
+   "commit": "fe0a1d4f05923e926b478a65c7aed663179e73c9",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "cookjohn/zotero-mcp",
+   "stars": 1279,
+   "language": "TypeScript",
+   "commit": "fad02b8641fe0c04ced4d8d2038339c9c0975692",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "danielgallen/mcp-server",
+   "stars": 1271,
+   "language": "Kotlin",
+   "commit": "ecc0481f8f4d7103267415736a35c4bb898beaf6",
+   "reason": "Written in Kotlin: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "xyTom/coding-tools-mcp",
+   "stars": 1223,
+   "language": "Python",
+   "commit": "9f37c8313344d7a3e4486dacbd36bb0c3a59b48d",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "Zen4-bit/Proxima",
+   "stars": 1210,
+   "language": "JavaScript",
+   "commit": "0e92241847c40d1c3b26b6785ab43dc8710888aa",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "jerry-ai-dev/MODULAR-RAG-MCP-SERVER",
+   "stars": 1202,
+   "language": "Python",
+   "commit": "f658c5a4011c8b826707a65a3b11ce9301b0626f",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "cinderline/northcinder",
+   "stars": 1201,
+   "language": "JavaScript",
+   "commit": "d1343096a7afff58e0aee4fbf608daf2fa28dc03",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "ref-tools/ref-tools-mcp",
+   "stars": 1185,
+   "language": "TypeScript",
+   "commit": "ae59ed10275953fb2dd3989f08dee2669230a4e5",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "mongodb-js/mongodb-mcp-server",
+   "stars": 1161,
+   "language": "TypeScript",
+   "commit": "e607a7cec36a681a17fe3428cd2219e4c64b91bb",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "Get-Concord-AI/concord-mcp",
+   "stars": 1149,
+   "language": "TypeScript",
+   "commit": "20efe62228e0603c38c41be6be1ec071e2166a30",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Softeria/ms-365-mcp-server",
+   "stars": 1138,
+   "language": "TypeScript",
+   "commit": "385e4c85ffa9f94d9ce04ce574741e1c2f9016e4",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "iFurySt/RedNote-MCP",
+   "stars": 1136,
+   "language": "TypeScript",
+   "commit": "74bf739a3db5c5b8e86fc8323ede09038cd89f48",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "iosifache/annas-mcp",
+   "stars": 1123,
+   "language": "Go",
+   "commit": "c095963ad5d10d33da3c614495246b6ec7f680d4",
+   "reason": "Written in Go: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "cloudflare/mcp",
+   "stars": 1092,
+   "language": "TypeScript",
+   "commit": "7eb0b5258c4265503b3fce8842b96adc5422fa69",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "jae-jae/fetcher-mcp",
+   "stars": 1088,
+   "language": "TypeScript",
+   "commit": "66a4154da2ded4883b665dfc38c6c6f9c44af670",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "alpacahq/alpaca-mcp-server",
+   "stars": 1084,
+   "language": "Python",
+   "commit": "9daa38cc41d2327467b8dd83cceb06b457074cbc",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "marc-shade/world-intel-mcp",
+   "stars": 1077,
+   "language": "Python",
+   "commit": "fdebf9a8de6e00ed688053dd647cafedc179708b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "SylphxAI/anymd",
+   "stars": 1070,
+   "language": "Rust",
+   "commit": "2b8bfcde02976247fcd34e5e23d7c1e93d3397c9",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "sirkirby/unifi-mcp",
+   "stars": 1062,
+   "language": "Python",
+   "commit": "85a9bdd31216be0a52fc0d4473e30f17312fe9b7",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "negokaz/excel-mcp-server",
+   "stars": 1049,
+   "language": "Go",
+   "commit": "1ff4340573c3e421920282da1602afd89f3bb282",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "classfang/ssh-mcp-server",
+   "stars": 1046,
+   "language": "JavaScript",
+   "commit": "ff97574651f6e1efe938797ba29f526c499c36a3",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "ChiR24/Unreal_mcp",
+   "stars": 1038,
+   "language": "C++",
+   "commit": "2792ba198403bf0842a6cd91f87113d9d86db8e3",
+   "reason": "Written in C++: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "chatmcp/mcp-server-chatsum",
+   "stars": 1027,
+   "language": "TypeScript",
+   "commit": "5bf9298aa095da8b4af277137f48cc468f736797",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "xing5/mcp-google-sheets",
+   "stars": 1020,
+   "language": "Python",
+   "commit": "b2f98244590f1d0982505f4faa908731278ea998",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "johnhuang316/code-index-mcp",
+   "stars": 1005,
+   "language": "Python",
+   "commit": "d395cbf99e8e3e8bc280255a76a84a9ac6cb5528",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "diivi/aseprite-mcp",
+   "stars": 998,
+   "language": "Python",
+   "commit": "4bcdb6f5932116bbdbd1b7d3fcc1e8f965f7657a",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "neo4j-contrib/mcp-neo4j",
+   "stars": 989,
+   "language": "Python",
+   "commit": "1c7ad0793b5f06b42b9c44f855c23eb2064c3bb7",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "runesleo/x-reader",
+   "stars": 988,
+   "language": "Python",
+   "commit": "7476c7dd3377c7c6f3aaecd5ba65c7bdcfe55c39",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "rohitg00/kubectl-mcp-server",
+   "stars": 972,
+   "language": "Python",
+   "commit": "a3fef9fe231024fe7bb218b75f11b43c43c6ee6a",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "JetBrains/mcp-jetbrains",
+   "stars": 963,
+   "language": "JavaScript",
+   "commit": "c8c2b85bc6f029130542fdddc3daf066e404df41",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "arben-adm/mcp-sequential-thinking",
+   "stars": 963,
+   "language": "Python",
+   "commit": "95fdc0ea977cd56abac3ffb147a359967acb955a",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "alioshr/memory-bank-mcp",
+   "stars": 926,
+   "language": "TypeScript",
+   "commit": "559e42274147bb60f263b24c496d54593fb7f807",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "CursorTouch/Android-MCP",
+   "stars": 925,
+   "language": "Python",
+   "commit": "b3dabf90eabd6e58fd8c9799a314fc58e7170d35",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "suekou/mcp-notion-server",
+   "stars": 925,
+   "language": "TypeScript",
+   "commit": "efa09a200932ca62b6eda5aa194e654c80cef6d0",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "artokun/comfyui-mcp",
+   "stars": 924,
+   "language": "TypeScript",
+   "commit": "707474d24d0d251ba04a1bebdf86620cef2eaa8b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "gethopp/figma-mcp-bridge",
+   "stars": 919,
+   "language": "TypeScript",
+   "commit": "be641dee936f1174493315ccec18c32eb3489e3d",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "antfu/nuxt-mcp-dev",
+   "stars": 914,
+   "language": "TypeScript",
+   "commit": "54b979536b66c86e248fb174c6c3713dbe0706a1",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "jina-ai/MCP",
+   "stars": 911,
+   "language": "TypeScript",
+   "commit": "b938c00f0870a75b39a78d5dff1f5bf645151a6e",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "janwilmake/openapi-mcp-server",
+   "stars": 905,
+   "language": "TypeScript",
+   "commit": "7350f0c9c1892c4633e1846cdbb8de198975fec0",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "blacktop/ida-mcp-rs",
+   "stars": 904,
+   "language": "Rust",
+   "commit": "7a81b9a41d3c7d7b7c62547929b8c46f38a5c54a",
+   "reason": "Written in Rust: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "20000419/fauxnix",
+   "stars": 900,
+   "language": "TypeScript",
+   "commit": "ddaa63f0fe013d30abed43e51873fe2d25bccbbf",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "karanb192/reddit-mcp-buddy",
+   "stars": 895,
+   "language": "TypeScript",
+   "commit": "5fd379a5f973fcb1b599b1a8e6491cd6f829c5dc",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "sbroenne/mcp-server-excel",
+   "stars": 891,
+   "language": "C#",
+   "commit": "59bb703a984703f05226567a44f0f44b21d45d3e",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Dakkshin/after-effects-mcp",
+   "stars": 889,
+   "language": "JavaScript",
+   "commit": "88d5fbf08b7ae9f015ee98e5f8c4904095cf8202",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "shaneholloman/mcp-knowledge-graph",
+   "stars": 888,
+   "language": "JavaScript",
+   "commit": "9f6268c4b5dfb97b4188325deb5d7340fa2d19f7",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "utensils/mcp-nixos",
+   "stars": 885,
+   "language": "Python",
+   "commit": "a0fb7ab7701d8aff179199536b7c2574ef05507a",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "hyper-mcp-rs/hyper-mcp",
+   "stars": 882,
+   "language": "Rust",
+   "commit": "fb2b24fbbe662d0c01140987d1b6cb5aacf9bb62",
+   "reason": "Written in Rust: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "riponcm/projectmem",
+   "stars": 882,
+   "language": "Python",
+   "commit": "a405361b8d12cb773bb42ef0f64004623dbee764",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "tufantunc/ssh-mcp",
+   "stars": 879,
+   "language": "TypeScript",
+   "commit": "e04ebf21dd44f18f00ea2e0794b49d57dfaf3c7f",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "mihai-dinculescu/tapo",
+   "stars": 874,
+   "language": "Rust",
+   "commit": "7cc850de1032a8b57b722422a8b5d441cf51a2c5",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "guangxiangdebizi/FinanceMCP",
+   "stars": 872,
+   "language": "TypeScript",
+   "commit": "90a3b942e1cf03fc7f2df8236d58b338019c1a41",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "xdevplatform/xmcp",
+   "stars": 870,
+   "language": "Python",
+   "commit": "63d34362d88ed9f94d54ccd5ecd5bb4d12e11759",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "oss-invisible/playwright_mcp",
+   "stars": 865,
+   "language": "Python",
+   "commit": "3d96d89cc2c94e1fb66b0074ecc97a640bb9fce7",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "ariadng/metatrader-mcp-server",
+   "stars": 850,
+   "language": "Python",
+   "commit": "bd2ff591e32cb492fafefe74221d502dd78b71ef",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "kontext-security/browser-use-mcp-server",
+   "stars": 848,
+   "language": "Python",
+   "commit": "a9864a400979e6e80fac9bff3e38adf3fa4e64cb",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "zinja-coder/jadx-mcp-server",
+   "stars": 845,
+   "language": "Python",
+   "commit": "a8e5b7de4f7d7f9ef0ccea9d063631133105bd34",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "alexander-zuev/supabase-mcp-server",
+   "stars": 837,
+   "language": "Python",
+   "commit": "bca07008fe46cae791221c2ee30df034c963ec56",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "danielealbano/android-remote-control-mcp",
+   "stars": 836,
+   "language": "Kotlin",
+   "commit": "2e2582fa9ec6f88aa60d930abf29d9893748933d",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "vercel/next-devtools-mcp",
+   "stars": 836,
+   "language": "TypeScript",
+   "commit": "1e8dcfa4789777901144b5d9710137f0eff72036",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "yuniko-software/minecraft-mcp-server",
+   "stars": 817,
+   "language": "TypeScript",
+   "commit": "240c8cec337ce152cc9e058ebdef511055808406",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "krakenfx/kraken-cli",
+   "stars": 812,
+   "language": "Rust",
+   "commit": "671cdd7f1483409f7b45554725f2a07ac5abd33f",
+   "reason": "Written in Rust: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "minhalvp/android-mcp-server",
+   "stars": 811,
+   "language": "Python",
+   "commit": "451d255a7305e6efef8a1a2b7374a21c512bba45",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "symgraph/GhidrAssistMCP",
+   "stars": 811,
+   "language": "Java",
+   "commit": "797a7fbaa5bee77feb50b830ef82942e060a787f",
+   "reason": "Written in Java: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "ctoldigital/axuse",
+   "stars": 804,
+   "language": "JavaScript",
+   "commit": "c7f2fa4c5ef04fc899d0bdf91cf90f3ade8d8f52",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "line/line-bot-mcp-server",
+   "stars": 804,
+   "language": "TypeScript",
+   "commit": "9cbed2c00afdb0e1cd6ddcd06b74d42393c41c47",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "phone-harness/mcp",
+   "stars": 803,
+   "language": "Python",
+   "commit": "b0572ff90388c8e62e17fe08484a072eb594ccf6",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "worryzyy/HowToCook-mcp",
+   "stars": 801,
+   "language": "TypeScript",
+   "commit": "d702e22896b930146974dc3ab0eadf60cdcfeb04",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "dadbodgeoff/drift",
+   "stars": 795,
+   "language": "TypeScript",
+   "commit": "e371dbfabdd04d333258577c83747a7feb2f6692",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "hyperbrowserai/mcp",
+   "stars": 793,
+   "language": "TypeScript",
+   "commit": "7492e83cf1825b3cf9725bfa25c5086df702599a",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "alash3al/stash",
+   "stars": 774,
+   "language": "Go",
+   "commit": "d34ed430c4348ef741ef95146b488aea8616f4fb",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "GreatScottyMac/context-portal",
+   "stars": 768,
+   "language": "Python",
+   "commit": "18bde469feb03c233d11c9a4941bd27bd859a5ff",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "use-novamira/novamira",
+   "stars": 767,
+   "language": "PHP",
+   "commit": "a5993f4697852c9569e0e8705dca1cf0de5d4135",
+   "reason": "Written in PHP: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "msrbuilds/elementor-mcp",
+   "stars": 765,
+   "language": "PHP",
+   "commit": "30c4888b8d716782631fd0748fdd13674f1f29ec",
+   "reason": "Written in PHP: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "GH05TCREW/MetasploitMCP",
+   "stars": 760,
+   "language": "Python",
+   "commit": "afc792d9ee17540f8a94349b20a3b203e6961a92",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "bartolli/codanna",
+   "stars": 760,
+   "language": "Rust",
+   "commit": "639917d868eda7dc789774c9c9d69b3753dd1b75",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "ckreiling/mcp-server-docker",
+   "stars": 756,
+   "language": "Python",
+   "commit": "57a7df208fdc2362505835f670e53c66f3717c48",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "StevenStavrakis/obsidian-mcp",
+   "stars": 751,
+   "language": "TypeScript",
+   "commit": "bd900974adc6d7451f1f9d0f09d46b14307714f8",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "caiovicentino/polymarket-mcp-server",
+   "stars": 750,
+   "language": "Python",
+   "commit": "21f65f319ff0fc4250ea1e5094581761906839e1",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "INSANE0777/Awwwards-mcp",
+   "stars": 742,
+   "language": "TypeScript",
+   "commit": "954fb9ba4d017bda51236d7d21821ae1eb225a50",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "0xK3vin/MegaMemory",
+   "stars": 736,
+   "language": "TypeScript",
+   "commit": "e0bb3c270d7fb4f6f280ae4685e0c538eb225d93",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "disler/just-prompt",
+   "stars": 736,
+   "language": "Python",
+   "commit": "8e6e188b21df939d890f05237fd7c20133b659b2",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "elastic/mcp-server-elasticsearch",
+   "stars": 733,
+   "language": "Rust",
+   "commit": "9e64b842f22269eb214793e1a4885128dc4a8fd8",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "wshobson/maverick-mcp",
+   "stars": 728,
+   "language": "Python",
+   "commit": "3c97ada5dc53a935a30f01f01a554d9f378049dd",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "YMuskrat/arcticdb_mcp",
+   "stars": 725,
+   "language": "Python",
+   "commit": "044c7cad4f0ed947f3ca35a6457ab22f9473ab2f",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "cohnen/mcp-google-ads",
+   "stars": 723,
+   "language": "Python",
+   "commit": "461a1d673cf1c369e8b95fc9b5b1d9cb7f3ebb4a",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "eat-pray-ai/yutu",
+   "stars": 723,
+   "language": "Go",
+   "commit": "4af9fa909c95efeda7d0db5c05ae1dd6d7062c39",
+   "reason": "Written in Go: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "jlumbroso/passage-of-time-mcp",
+   "stars": 723,
+   "language": "Python",
+   "commit": "5c119c55c99dbce9f402a340e0020eecf170d5b5",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "zinja-coder/apktool-mcp-server",
+   "stars": 710,
+   "language": "Python",
+   "commit": "12bb33134af905923a0a58643dcc35fd694ad6f6",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "daobataotie/CAD-MCP",
+   "stars": 703,
+   "language": "Python",
+   "commit": "daf7502951175e01aba9126a702400186ba2d4f9",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "with-pebbly/aseprite-ai-artist",
+   "stars": 693,
+   "language": "TypeScript",
+   "commit": "9def814c655acf86828f598ea88ca4cc41503389",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "SonarSource/sonarqube-mcp-server",
+   "stars": 688,
+   "language": "Java",
+   "commit": "8dc1b6fb801b550ebaac43fe2cbe60951c6b5d48",
+   "reason": "Written in Java: the tool list could not be counted with confidence by static reading."
+  },
+  {
+   "full_name": "coleam00/mcp-mem0",
+   "stars": 687,
+   "language": "Python",
+   "commit": "22fb7af0432e15fbe379ad7c7c7beac911fa2648",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "prajwalshettydev/UnrealGenAISupport",
+   "stars": 686,
+   "language": "C++",
+   "commit": "6514568278e4921eba13530a29c332658b615f2b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "arinspunk/claude-talk-to-figma-mcp",
+   "stars": 680,
+   "language": "TypeScript",
+   "commit": "c7adf243fc2967fcda3862415d3283bd239af56d",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "genomoncology/biomcp",
+   "stars": 679,
+   "language": "Rust",
+   "commit": "561d3fe06d9dff5485f13a82a4108371f6fdfe88",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "neondatabase/mcp-server-neon",
+   "stars": 663,
+   "language": "TypeScript",
+   "commit": "02e906f908d04998931e5f3180b382a5e9f5c7fd",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "saidsurucu/borsa-mcp",
+   "stars": 660,
+   "language": "Python",
+   "commit": "e3b45b22dafa703135afa84a1dc92973603a56f1",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "abhiemj/manim-mcp-server",
+   "stars": 658,
+   "language": "Python",
+   "commit": "da23214426a56ce3ba4da39b0718d64cf97cd23c",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "puran-water/autocad-mcp",
+   "stars": 653,
+   "language": "Python",
+   "commit": "f07b6a5071364a7c4b111ac41a0fc680a3d1ca18",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "hustcc/mcp-mermaid",
+   "stars": 651,
+   "language": "TypeScript",
+   "commit": "13497062a98061295ed2f7546612bd6d235219eb",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "tuannvm/codex-mcp-server",
+   "stars": 649,
+   "language": "TypeScript",
+   "commit": "a57acb6080ae41139211fdfabf2bce4851a86b1a",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "manojmallick/sigmap",
+   "stars": 648,
+   "language": "JavaScript",
+   "commit": "4a1d74cc2ae101987485ab6fee656f5563925a93",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "hald/things-mcp",
+   "stars": 644,
+   "language": "Python",
+   "commit": "3cc3f4347c34172bfb4814cdbe1ed60d0a90f496",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "SixHq/Overture",
+   "stars": 643,
+   "language": "TypeScript",
+   "commit": "14c892950fd45e987b6b3bdaad47f3a5fa317e59",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "8beeeaaat/touchdesigner-mcp",
+   "stars": 632,
+   "language": "TypeScript",
+   "commit": "98119d2b63c29f075a8c36bd38967ce860ea48f1",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "MightyDillah/apple-doc-mcp",
+   "stars": 629,
+   "language": "TypeScript",
+   "commit": "ccc839c196034f678ef49f83a503498b8144624b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "web-agent-master/google-search",
+   "stars": 629,
+   "language": "TypeScript",
+   "commit": "367aa01922e6d071f1900443eeae94d5f7a9b833",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "firstbatchxyz/mem-agent-mcp",
+   "stars": 628,
+   "language": "Python",
+   "commit": "2eabdbe551741734e0172dcc998e9e42715912fe",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "GTAI-1/flow-mcp",
+   "stars": 626,
+   "language": "TypeScript",
+   "commit": "1d17b7b5ecc6fa74411b3f442f45a1a3e85fbaef",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "iannuttall/seo",
+   "stars": 626,
+   "language": "TypeScript",
+   "commit": "41fa2639fbd41783e43871390a9c7cebac4a4937",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Hacker-Valley-Media/Interceptor",
+   "stars": 625,
+   "language": "TypeScript",
+   "commit": "95c7e93485b2bdce88b3305f43bab909feab7ad8",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "StuMason/coolify-mcp",
+   "stars": 624,
+   "language": "TypeScript",
+   "commit": "bfd7c7471fdd8df7b29feb3565cfbbdbc2dc9ad7",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "jasonjgardner/blockbench-mcp-plugin",
+   "stars": 623,
+   "language": "TypeScript",
+   "commit": "97a8a80d3a37bf95c5e136d93d2c7da399fff753",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "dbt-labs/dbt-mcp",
+   "stars": 622,
+   "language": "Python",
+   "commit": "201148d7ef294abfd4ba6bfd52141e6fba91b1bf",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "argoproj-labs/mcp-for-argocd",
+   "stars": 604,
+   "language": "TypeScript",
+   "commit": "fbaae3ae31d22d6f4a3fe96fe9fa1a034ce44daa",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "chroma-core/chroma-mcp",
+   "stars": 604,
+   "language": "Python",
+   "commit": "98ff67589bdcc31b730a5415ff9529433f949077",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "kimtaeyoon83/mcp-server-youtube-transcript",
+   "stars": 604,
+   "language": "TypeScript",
+   "commit": "50b21f90884fc02a3c3f4adef587ba6c6f87be3b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "etsd-tech/mcp-pointer",
+   "stars": 600,
+   "language": "TypeScript",
+   "commit": "59601d17ed63176e994f82d20558c386272cad4f",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "ZubeidHendricks/youtube-mcp-server",
+   "stars": 598,
+   "language": "TypeScript",
+   "commit": "36142e30de15841139ae9613c568e0bd09aef372",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "spences10/mcp-sequentialthinking-tools",
+   "stars": 588,
+   "language": "TypeScript",
+   "commit": "c2ecbde6334b17871ef06a61b5988be977496b2b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "vivekVells/mcp-pandoc",
+   "stars": 587,
+   "language": "Python",
+   "commit": "7df0519cd7d976d7c3be978852f6178da5a37035",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "freestylefly/mcp-server-weread",
+   "stars": 584,
+   "language": "JavaScript",
+   "commit": "4a8caadbaa117c603bfb7a83e884fd939f87c6df",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "microsoft/DebugMCP",
+   "stars": 581,
+   "language": "TypeScript",
+   "commit": "d0b4a334a6a3d8d600c5aa75ec60d9de272af3c4",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "webfansplz/vite-plugin-vue-mcp",
+   "stars": 578,
+   "language": "Vue",
+   "commit": "9b66c046e4eca2901b69fbb93a547cae4c6cb786",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "neiltron/apple-health-mcp",
+   "stars": 575,
+   "language": "TypeScript",
+   "commit": "2fbcf29599a5eac38d9ad3e976ee27142be6a77b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "tevonsb/homeassistant-mcp",
+   "stars": 574,
+   "language": "TypeScript",
+   "commit": "da5c30bc5ef83a7dd96fd1ef8122f0b2f3b8c94b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Brhiza/mingyu",
+   "stars": 573,
+   "language": "TypeScript",
+   "commit": "71510d220fcc1c41303d0e2302d520fd9133e330",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "ferrislucas/iterm-mcp",
+   "stars": 571,
+   "language": "TypeScript",
+   "commit": "936182b2bbcdada70cf93d0284a48ab227d06a02",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "mozilla/firefox-devtools-mcp",
+   "stars": 571,
+   "language": "TypeScript",
+   "commit": "a739850747ce826c421973d8468d2ee4759600d9",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "WhiteNightShadow/camoufox-reverse-mcp",
+   "stars": 570,
+   "language": "Python",
+   "commit": "5ebeb4a79d0d62c890dcbe8ac4d22cefe6b63e94",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "anomalyco/browse",
+   "stars": 569,
+   "language": "TypeScript",
+   "commit": "e2a1175ca61c8d5489360516ee70059a31710066",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "kagisearch/kagimcp",
+   "stars": 568,
+   "language": "Python",
+   "commit": "4dc1dc97ca8dead8458c7025e4fcc36d2e3d6ec4",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "openbnb-org/mcp-server-airbnb",
+   "stars": 559,
+   "language": "JavaScript",
+   "commit": "d5a8f18f5978b0a33dea4b3ec130c389bad845cc",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "ankimcp/anki-mcp-server",
+   "stars": 558,
+   "language": "TypeScript",
+   "commit": "d7d65125e8469c63d84b7670ad645f997825ff3f",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "anyproto/anytype-mcp",
+   "stars": 544,
+   "language": "TypeScript",
+   "commit": "18f4ab6abb6f94b41da134b286a902924ba134f6",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "reading-plus-ai/mcp-server-data-exploration",
+   "stars": 544,
+   "language": "Python",
+   "commit": "0cd67660c2591f05fe8dfe5bf93c9d5b66c5b95d",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "subnetmarco/pgmcp",
+   "stars": 543,
+   "language": "Go",
+   "commit": "53681ab9b83ba01a2cc1744597f86b2be093d13b",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "stuzero/pg-mcp-server",
+   "stars": 541,
+   "language": "Python",
+   "commit": "d693c43b3df7fdbaf8a5e4505f9fcafa6c577119",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "chrisdoc/hevy-mcp",
+   "stars": 540,
+   "language": "TypeScript",
+   "commit": "8a2612f7bc026f13d3fbf317a236bc1683d47829",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "motherduckdb/mcp-server-motherduck",
+   "stars": 540,
+   "language": "Python",
+   "commit": "181ad176d09993b10d6aa6073810a30fe12623db",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "ythx-101/ask-search",
+   "stars": 540,
+   "language": "Python",
+   "commit": "901c1ec1f80704a0b0556c9281826d8b047ac581",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "leancoderkavy/premiere-pro-mcp",
+   "stars": 530,
+   "language": "TypeScript",
+   "commit": "dd0ed28c1fbcf7590f871a90c6525f249b95958d",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "badchars/darknet-mcp-server",
+   "stars": 527,
+   "language": "TypeScript",
+   "commit": "8a19a37a03b302452bfabb30599d64669c374bfd",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "pab1it0/prometheus-mcp-server",
+   "stars": 525,
+   "language": "Python",
+   "commit": "3075d504c5439bcd0e419d5e420a0f494c1d0dc2",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "sv-number/mcp-server",
+   "stars": 522,
+   "language": "TypeScript",
+   "commit": "219e9168fad01f64513b0a1d4eb5c4bcde643032",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "freee/freee-mcp",
+   "stars": 520,
+   "language": "TypeScript",
+   "commit": "b494ba321fd3b2751660075a748b88577a717a50",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "Cranot/roam-code",
+   "stars": 516,
+   "language": "Python",
+   "commit": "88a19184a56beb1a66ad9cf0d22b4c8ab73a7b4c",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "okx/agent-trade-kit",
+   "stars": 511,
+   "language": "TypeScript",
+   "commit": "7fb7ba139c8b71b36b986530b4e514fd9cecee5c",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "eyfel/mcp-server-solidworks",
+   "stars": 508,
+   "language": "Python",
+   "commit": "506ef87a5c3b772e177b412367e7361a3937e79a",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "marcelmarais/spotify-mcp-server",
+   "stars": 507,
+   "language": "TypeScript",
+   "commit": "8c772fe5628bb63df41ed1358f6d84d20422e49a",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "r-huijts/strava-mcp",
+   "stars": 506,
+   "language": "TypeScript",
+   "commit": "ac43cc7b0aad2f218b9c42bd639aee696dbee531",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "PV-Bhat/vibe-check-mcp-server",
+   "stars": 505,
+   "language": "TypeScript",
+   "commit": "ed8452f2d626011526b0c62f7be7d0a6f67794c1",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "awslabs/iam-policy-autopilot",
+   "stars": 505,
+   "language": "Rust",
+   "commit": "af25112441e2ea3f89edb9b5960b2bcd81c1ba12",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "QuantGeekDev/docker-mcp",
+   "stars": 504,
+   "language": "Python",
+   "commit": "6dada7feb35543c0d335b84a02559b5d55fe4b85",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "chutingyean/Agent-Cockpit",
+   "stars": 500,
+   "language": "JavaScript",
+   "commit": "a968c6bc2568a5036981f896939234aaac29c1cd",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  },
+  {
+   "full_name": "db-lyon/ue-mcp",
+   "stars": 500,
+   "language": "C++",
+   "commit": "68ab20b9135e823bd627f57af5be6af669365c17",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "cablate/mcp-google-map",
+   "stars": 498,
+   "language": "TypeScript",
+   "commit": "47248eadd98c70daea4a2cbbe6493ecc41ebe2c8",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "jkawamoto/mcp-youtube-transcript",
+   "stars": 497,
+   "language": "Python",
+   "commit": "1afa2d2f9cbb7a2b42a0ea03a89550ac48be8da7",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "avansaber/seo-monster",
+   "stars": 494,
+   "language": "Python",
+   "commit": "9ca27597fe259c9076db5717e18b813cf6201aa7",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "MarkusPfundstein/mcp-gsuite",
+   "stars": 492,
+   "language": "Python",
+   "commit": "af509cf2d608537d69fd80981672c97a94116f05",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "baryhuang/mcp-remote-macos-use",
+   "stars": 491,
+   "language": "Python",
+   "commit": "58c13c785ce76ad1d37975e9b7aa32303b8d7c22",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "merajmehrabi/puppeteer-mcp-server",
+   "stars": 489,
+   "language": "TypeScript",
+   "commit": "41d656953cba033d6d993ccca589be72c2e1db3f",
+   "reason": "Being checked by hand. Added in a weekly update."
+  },
+  {
+   "full_name": "cyanheads/atlas-mcp-server",
+   "stars": 481,
+   "language": "TypeScript",
+   "commit": "5a0bfdc08f9d0d106e69432bcaa606cc414340f1",
+   "reason": "The tool list could not be counted with confidence by static reading (for example, tools built at runtime from a config, an OpenAPI file or a registry)."
+  }
+ ]
+}
